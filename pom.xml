@@ -95,7 +95,7 @@
 	
 	<distributionManagement>
 	
-	    <releaserepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>ABC Technologies Releases Nexus Repository</name>
 	      <url>http://3.89.79.238:8081/repository/walmart-release//</url>
